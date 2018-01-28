@@ -1,0 +1,9 @@
+#container {
+  border: 2px solid gray;
+  width: 360px;
+  margin: auto;
+}
+.removeTodo {
+  text-decoration: line-through;
+  color: gray;
+}
